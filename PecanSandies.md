@@ -4,6 +4,7 @@
 * 2 C AP flour
 * 1 t vanilla 
 * 1 t caramel
+* 1 t chocolate
 
 ## Instructions
 Do things.
